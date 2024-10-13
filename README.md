@@ -1,3 +1,3 @@
 # ADM-HW1
 
-questo è il mio compito per casa dove ho caricato tutti i codici da me svolti su hacke rank 
+This is my homework where I uploaded all the codes I completed on HackerRank. It also includes the PDF with my results.
